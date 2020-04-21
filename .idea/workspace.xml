@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89550824-28be-43a9-9ede-ec6ae4b0182a" name="Default Changelist" comment="" />
+    <list default="true" id="89550824-28be-43a9-9ede-ec6ae4b0182a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Syn/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/producerConsumer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideThreads/ru/gushin/ngtu/ivt/synhr0nized/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideThreads/ru/gushin/ngtu/ivt/synhr0nized/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideThreads/ru/gushin/ngtu/ivt/synhr0nized/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideThreads/ru/gushin/ngtu/ivt/synhr0nized/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideThreads/ru/gushin/ngtu/ivt/synhr0nized/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideThreads/ru/gushin/ngtu/ivt/synhr0nized/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/synhr0nized/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/synhr0nized/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aqQDi2EUTvyJxhd8rtHeWxJGVs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,8 +33,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Threads" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -30,13 +44,26 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.gushin.ngtu.ivt.synhr0nized.Main" />
       <module name="GuideThreads" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.gushin.ngtu.ivt.synhr0nized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gushin.ngtu.ivt.producerConsumer.Main" />
+      <module name="GuideThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gushin.ngtu.ivt.producerConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,9 +84,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -88,6 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587460525948</updated>
       <workItem from="1587460528604" duration="2222000" />
+      <workItem from="1587459959712" duration="4693000" />
     </task>
     <servers />
   </component>
@@ -95,21 +125,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1587462759169">
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1587462961540">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587462759169" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1587462759168">
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587462961540" />
+    <state width="1237" height="92" key="GridCell.Tab.0.bottom" timestamp="1587475956796">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587462759168" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1587462759168">
+    <state width="1237" height="92" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587475956796" />
+    <state width="1237" height="92" key="GridCell.Tab.0.center" timestamp="1587475956796">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587462759168" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1587462759168">
+    <state width="1237" height="92" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587475956796" />
+    <state width="1237" height="92" key="GridCell.Tab.0.left" timestamp="1587475956796">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587462759168" />
+    <state width="1237" height="92" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587475956796" />
+    <state width="1237" height="92" key="GridCell.Tab.0.right" timestamp="1587475956796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="92" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587475956796" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1587459959388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587459959388" />
   </component>
 </project>
